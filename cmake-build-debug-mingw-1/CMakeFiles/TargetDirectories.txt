@@ -1,0 +1,3 @@
+C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1/CMakeFiles/shixun.dir
+C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1/CMakeFiles/edit_cache.dir
+C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1/CMakeFiles/rebuild_cache.dir

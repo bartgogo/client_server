@@ -1,6 +1,5 @@
 cmake-build-debug/
 cmake-build-debug-mingw/
-cmake-build-debug-mingw-1
 cmake-build-debug-visual-studio/
 cmake-build-release/
 cmake-build-release-/

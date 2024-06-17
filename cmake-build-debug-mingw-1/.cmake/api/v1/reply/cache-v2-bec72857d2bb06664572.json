@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/15437/Desktop/\u5b9e\u8bad/shixun/cmake-build-release-mingw-1"
+			"value" : "c:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/15437/Desktop/\u5b9e\u8bad/shixun/cmake-build-release-mingw-1/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/15437/Desktop/\u5b9e\u8bad/shixun"
+			"value" : "C:/Users/15437/Desktop/shixun/shixun"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/15437/Desktop/\u5b9e\u8bad/shixun/cmake-build-release-mingw-1"
+			"value" : "C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1"
 		},
 		{
 			"name" : "shixun_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/15437/Desktop/\u5b9e\u8bad/shixun"
+			"value" : "C:/Users/15437/Desktop/shixun/shixun"
 		}
 	],
 	"kind" : "cache",

@@ -1,4 +1,4 @@
-"E:\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=E:/CLion 2023.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\15437\Desktop\shixun\shixun -B C:\Users\15437\Desktop\shixun\shixun\cmake-build-release-mingw-1
+"E:\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2023.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\15437\Desktop\shixun\shixun -B C:\Users\15437\Desktop\shixun\shixun\cmake-build-debug-mingw-1
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done (1.7s)
 -- Generating done (0.0s)
--- Build files have been written to: C:/Users/15437/Desktop/shixun/shixun/cmake-build-release-mingw-1
+-- Build files have been written to: C:/Users/15437/Desktop/shixun/shixun/cmake-build-debug-mingw-1
