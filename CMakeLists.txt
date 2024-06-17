@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.20)
+project(shixun)
+
+set(CMAKE_CXX_STANDARD 17)
+
+if(WIN32)
+    include_directories("D:/OpenSSL-Win64/include")
+    link_directories("D:/OpenSSL-Win64/lib/VC/x64/MD")
+    add_executable(shixun main.cpp)
+    target_link_libraries(shixun ws2_32 libssl libcrypto z)
+ELSE()
+    include_directories("/usr/include/openssl")
+add_executable(shixun server.cpp)
+    target_link_libraries(shixun ssl crypto z sqlite3)
+ENDIF ()
