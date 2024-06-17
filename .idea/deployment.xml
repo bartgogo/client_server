@@ -22,9 +22,12 @@
             <mapping deploy="/tmp/tmp.m04TEmtHRp" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw-1" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-mingw-1" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-mingw-1" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-" />
           </excludedPaths>
         </serverdata>
